@@ -1,0 +1,6 @@
+resources:
+  - ../../base
+configMapGenerator:
+  - name: hoge-envs
+    envs:
+      - files/hoge.env

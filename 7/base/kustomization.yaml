@@ -1,0 +1,4 @@
+resources:
+  - custom-resource.yaml
+configurations:
+  - kustomizeconfig/configmap.yaml

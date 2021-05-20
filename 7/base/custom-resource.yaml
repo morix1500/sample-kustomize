@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Hoge
+metadata:
+  name: hoge
+spec:
+  configMap:
+    name: hoge-envs
