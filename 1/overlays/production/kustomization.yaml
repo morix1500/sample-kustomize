@@ -1,0 +1,7 @@
+resources:
+  - ../../base
+
+images:
+  - name: sample
+    newName: nginx
+    newTag: 1.18.0
