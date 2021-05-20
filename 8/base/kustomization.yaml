@@ -1,0 +1,2 @@
+resources:
+  - https://github.com/kubernetes-sigs/metrics-server/manifests/release?ref=v0.4.4
